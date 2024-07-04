@@ -1,0 +1,30 @@
+[
+    {
+        "id_empleado": "E1",
+        "nombre": "MAlan",
+        "apellido": "Brito",
+        "sueldo": 450000,
+        "id_cargo": "C2"
+    },
+    {
+        "id_empleado": "E2",
+        "nombre": "Matias",
+        "apellido": "Neira",
+        "sueldo": "250000",
+        "id_cargo": "C2"
+    },
+    {
+        "id_empleado": "E3",
+        "nombre": "Pedro",
+        "apellido": "Lope",
+        "sueldo": "500000",
+        "id_cargo": "C1"
+    },
+    {
+        "id_empleado": "E4",
+        "nombre": "Benjamin",
+        "apellido": "Lecaros",
+        "sueldo": "600000",
+        "id_cargo": "C1"
+    }
+]
